@@ -5,12 +5,12 @@ dom-to-pdf generates a printable PDF from DOM node using HTML5 canvas and svg.
 ## Install
 
 ```
-npm install --save react-dom-to-pdf
+npm install --save react-dom-to-pdf-byaasif
 ```
 
 ## Usage
 ```javascript
-var domToPdf = require('react-dom-to-pdf');
+var domToPdf = require('react-dom-to-pdf-byaasif');
 
 var element = document.getElementById('test');
 var options = {
